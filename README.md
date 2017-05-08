@@ -1,1 +1,2 @@
 # learningGit
+# der erste Commit
